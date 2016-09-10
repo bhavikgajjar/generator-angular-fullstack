@@ -1,6 +1,6 @@
 <a name="4.0.4"></a>
 ## [4.0.4](https://github.com/angular-fullstack/generator-angular-fullstack/compare/4.0.3...v4.0.4) (2016-09-01)
-
+this is bug . Ifixed code
 
 ### Bug Fixes
 
